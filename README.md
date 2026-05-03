@@ -24,7 +24,7 @@
 
 ### Past Lives
 
-- 🛠️ Design Lead, FRC Team 670 (2021 – 2025)
+- 🛠️ Design Lead, FRC Team 670 
 - 🧠 Dev Intern, Robolabs / KEENON Robotics
 - 🧪 Co-founder, Hack the Lab
-- 🎮 4 games shipped to itch.io
+- 🎮 4 games developed in Unity 
