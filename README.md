@@ -2,7 +2,6 @@
 
 [![](https://img.icons8.com/material-outlined/30/689d6a/source-code.png)](https://github.com/auhonh/)
 [![](https://img.icons8.com/material-outlined/30/689d6a/linkedin.png)](https://www.linkedin.com/in/auhon-haldar/)
-[![](https://img.icons8.com/material-outlined/30/689d6a/geography.png)](https://auhonh.itch.io/)
 [![](https://img.icons8.com/ios-glyphs/30/689d6a/physics.png)](mailto:auhonh@gmail.com)
 
 ---
@@ -11,13 +10,13 @@
 
 - 🐢 CS @ University of Maryland
 - 🤖 Software for Testudog @ Robotics@Maryland
-- ⚡ Nerd-sniped by Swift / iOS
+- ⚡ Developer at App Dev Club @ UMD
 
 ---
 
 ### Featured Projects
 
-- [hungry-terp-ai](https://github.com/auhonh/hungry-terp-ai)
+- [hungry-terp-ai](https://github.com/auhonh/hungry-terp-ai) - llm for assisting UMD students with anything dining hall related
 - [umd-naval-hack](https://github.com/auhonh/umd-naval-hack) — vision pipeline for a naval hackathon, YOLO + Raspberry Pi
 - [gesture-detection](https://github.com/auhonh/gesture-detection) — real-time hand-gesture recognition
 
